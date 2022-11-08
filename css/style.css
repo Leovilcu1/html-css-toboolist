@@ -20,9 +20,6 @@ footer{
 .contain{
     width: 70%;
     margin: 0 auto;
-    margin-top: 40px;
-    padding: 1% 5%;
-    border-radius:10px 10px 0px 0;
     background-color:#ffffff ;
 }
 #button-select{
@@ -38,4 +35,73 @@ footer{
     padding: 5px;
     color: lightgray;
     background-color: #fff;
+}
+.contain-footer{
+    margin-top: 40px;
+    padding: 1% 5%;
+    border-radius:10px 10px 0px 0;
+}
+.contain-section{
+    margin-top: 1px;
+    padding: 2% 5%;
+    border-radius:0 0 10px 10px;
+}
+.title-opening{
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+}
+.icon-before-title{
+    font-size: 10px;
+}
+.content-title{
+    font-size: medium;
+    margin-top: 15px;
+    font-weight: 400;
+    display: block;
+}
+.icon-before-content{
+    font-size: 12px;
+    border-radius: 50%;
+    padding: 2px;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    display: inline-block;
+    margin-right: 10px;
+}
+.after-icon-content{
+    font-size: 12px;
+    color:#ffffff;
+    border-radius: 10px;
+    padding:4px 7px;
+}
+.section-today , .section-upcoming{
+    margin-top: 30px;
+}
+#Q1-violet{
+    background-color: violet;
+}
+#sales-green{
+    background-color: #b0c926;
+}
+.editorial{
+    background-color: #45abea;
+}
+#website-fuxia{
+    background-color: #d863a1;
+}
+#mobile-orange{
+    background-color: #f29e33;
+}
+#recruiting-menta{
+    background-color: #64c0a9;
+}
+.check-red{
+    border: 1px solid red;
+    color: red
+}
+.check-green{
+    border: 1px solid #73c7b3;
+    color: #73c7b3;
 }
