@@ -7,8 +7,7 @@ body{
     background-color: #f6f8f9;
 }
 footer{
-    background-color:#ffffff ;
-    width: 100%;     
+    background-color:#ffffff ;     
 }
 #footer-logo{
     vertical-align: middle;
@@ -17,4 +16,26 @@ footer{
 #footer-title{
     vertical-align: middle;
     display: inline-block;
+}
+.contain{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 1% 5%;
+    border-radius:10px 10px 0px 0;
+    background-color:#ffffff ;
+}
+#button-select{
+    background-color:#47adf1;
+    color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid blue;
+    padding: 5px;
+}
+#button-unselect{
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    padding: 5px;
+    color: lightgray;
+    background-color: #fff;
 }
