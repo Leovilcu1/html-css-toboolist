@@ -6,14 +6,14 @@
 body{
     background-color: #f6f8f9;
 }
-footer{
+header{
     background-color:#ffffff ;     
 }
-#footer-logo{
+#header-logo{
     vertical-align: middle;
     margin: 10px 5px 10px 20px;
 }
-#footer-title{
+#header-title{
     vertical-align: middle;
     display: inline-block;
 }
