@@ -5,7 +5,10 @@
 }
 body{
     background-color: #f6f8f9;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+            /* header */
 header{
     background-color:#ffffff ;     
 }
@@ -17,6 +20,8 @@ header{
     vertical-align: middle;
     display: inline-block;
 }
+
+             /*main */
 .contain{
     width: 70%;
     margin: 0 auto;
@@ -36,7 +41,7 @@ header{
     color: lightgray;
     background-color: #fff;
 }
-.contain-footer{
+.contain-header{
     margin-top: 40px;
     padding: 1% 5%;
     border-radius:10px 10px 0px 0;
